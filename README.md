@@ -39,7 +39,7 @@ This repository contains implementations of various design patterns that are ess
 - **Proxy Pattern** - Provides placeholder/surrogate for another object
 
 ## 📁 Project Structure
-
+```
 LLDPatterns/
 ├── src/
 │   ├── behavioral/
@@ -69,6 +69,7 @@ LLDPatterns/
 ├── LLDPatterns.iml
 ├── README.md
 └── LICENSE
+```
 
 
 ## 🚀 Getting Started
