@@ -40,30 +40,36 @@ This repository contains implementations of various design patterns that are ess
 
 ## 📁 Project Structure
 
-```
-LLDPATERNS/
+LLDPatterns/
 ├── src/
-│   ├── BehaviouralDesignPattern/
-│   │   ├── Command/
-│   │   ├── Iterator/
-│   │   ├── Observer/
-│   │   ├── State/
-│   │   ├── Strategy/
-│   │   └── Template/
-│   ├── CreationalPatterns/
-│   │   ├── AbstractFactory/
-│   │   ├── Builder/
-│   │   ├── FactoryMethod/
-│   │   └── Prototype/
-│   └── StructuralDesignPattern/
-│       ├── Adapter/
-│       ├── Composite/
-│       ├── Decorator/
-│       ├── Facade/
-│       └── Proxy/
+│   ├── behavioral/
+│   │   ├── command/
+│   │   ├── iterator/
+│   │   ├── observer/
+│   │   ├── state/
+│   │   ├── strategy/
+│   │   └── template/
+│   ├── creational/
+│   │   ├── abstract_factory/
+│   │   ├── builder/
+│   │   ├── factory_method/
+│   │   └── prototype/
+│   ├── structural/
+│   │   ├── adapter/
+│   │   ├── composite/
+│   │   ├── decorator/
+│   │   ├── facade/
+│   │   └── proxy/
+│   └── relationships/
+│       ├── association/
+│       ├── aggregation/
+│       └── composition/
+│
 ├── .gitignore
-└── README.md
-```
+├── LLDPatterns.iml
+├── README.md
+└── LICENSE
+
 
 ## 🚀 Getting Started
 
@@ -139,8 +145,7 @@ Contributions are welcome! If you'd like to add more patterns or improve existin
 
 ## 🎯 Future Enhancements
 
-- [ ] Add more behavioral patterns (Mediator, Chain of Responsibility)
-- [ ] Include UML diagrams for each pattern
+- [ ] Add more behavioral patterns (Mediator, Chain of Responsibility etc)
 - [ ] Add real-world use case examples
 
 ## 📞 Contact
