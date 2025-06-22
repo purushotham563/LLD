@@ -37,12 +37,6 @@ public class Main {
             System.out.println("Paid ₹" + context.getAmount() + " using Credit Card.");
         }
     }
-
-
-
-
-
-
     public static void main(String[] args) {
         ShoppingCart cart = new ShoppingCart(999.0);
 

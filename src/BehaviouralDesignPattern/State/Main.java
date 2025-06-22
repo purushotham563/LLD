@@ -210,7 +210,5 @@ public class Main {
 
         System.out.println("\n=== Locked State Again ===");
         player.clickLock();
-
-
     }
 }

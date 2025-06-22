@@ -26,8 +26,6 @@ public class Main {
         protected void brew() {
             System.out.println("steeping the tea");
         }
-
-
         @Override
         protected void addCondiments() {
        System.out.println("Adding the lemon");
@@ -45,8 +43,6 @@ public class Main {
         protected void brew() {
             System.out.println("Dripping coffee through filter");
         }
-
-
         @Override
         protected void addCondiments() {
              System.out.println("Adding the milk and sugar");
@@ -61,7 +57,5 @@ public class Main {
         System.out.println("\n----------");
         Beverage coffee=new Coffee();
         coffee.prepareRecipe();
-
-
     }
 }

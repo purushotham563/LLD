@@ -106,7 +106,5 @@ public class Main {
         editor.events.subscribe("save", emailAlerts);
         editor.openFile("test.txt");
         editor.saveFile();
-
-
     }
 }

@@ -75,7 +75,5 @@ public class Main {
         if (!hole.fits(largeSqPegAdapter)) {
             System.out.println("Square peg w20 does not fit into round hole r5.");
         }
-
-
     }
 }

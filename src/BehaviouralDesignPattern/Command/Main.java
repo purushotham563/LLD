@@ -150,7 +150,6 @@ public class Main {
         public UndoCommand(Application app, Editor editor) {
             super(app, editor);
         }
-
         @Override
         public boolean execute() {
             app.undo();
@@ -172,6 +171,5 @@ public class Main {
     public static void main(String[] args) {
         Application app = new Application();
         app.createUI();
-
     }
 }
