@@ -36,6 +36,10 @@ src/
 ├── WeekDayPrice.java          # Weekday pricing strategy
 ├── WeekendPrice.java          # Weekend pricing strategy
 ```
+## UML class diagram 
+![BookingSystemUML](https://github.com/user-attachments/assets/61d3014c-8dbc-43c7-a89b-d80ac83222a1)
+
+
 
 ## Technologies Used
 
