@@ -36,8 +36,9 @@ src/
 ```
 
 ## UML Class Diagram
+<img width="1473" height="1256" alt="ParkingSystemUML" src="https://github.com/user-attachments/assets/50d53806-6dd9-46e2-8488-a08e625a6a87" />
 
-![ParkingSystemUML](https://github.com/user-attachments/assets/your-parking-image-id-here)
+
 
 ## Design Patterns Used
 
