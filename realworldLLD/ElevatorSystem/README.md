@@ -36,7 +36,8 @@ src/
 
 ## UML Class Diagram
 
-![ElevatorSystemUML](https://github.com/user-attachments/assets/your-image-id-here)
+<img width="2317" height="2086" alt="ElevatorSystem" src="https://github.com/user-attachments/assets/559e39e5-a46e-475b-877d-a7f362685a6f" />
+
 
 ## Design Patterns Used
 
