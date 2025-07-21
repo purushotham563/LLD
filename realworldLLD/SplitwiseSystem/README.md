@@ -48,5 +48,5 @@ Manages notifier subscriptions and triggers notifications.
 ## 📄 UML Class Diagram
 
 <img width="1152" height="1508" alt="Spliwise Management" src="https://github.com/user-attachments/assets/52a111bf-9d6c-4fc9-8be4-014bd8552af5" />
-## Author 
+### Author 
 Purushotham Reddy 
