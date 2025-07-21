@@ -45,6 +45,8 @@ Manages notifier subscriptions and triggers notifications.
 - The balance sheet tracks debts.
 - The observer pattern is used to notify users when a new expense is added.
 
-## 📄 Generated with PlantUML
+## 📄 UML Class Diagram
 
-You can visualize the architecture by using the provided PlantUML code in a compatible viewer.
+<img width="1152" height="1508" alt="Spliwise Management" src="https://github.com/user-attachments/assets/52a111bf-9d6c-4fc9-8be4-014bd8552af5" />
+## Author 
+Purushotham Reddy 
